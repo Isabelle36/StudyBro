@@ -1,4 +1,6 @@
 # StudyGroup
+![image](https://github.com/user-attachments/assets/76c296a9-c18c-4965-bd9c-60e394b5f73d)
+
 ## About StudyGroup
 
 Are you tired of hearing about fancy study techniques like **Pomodoro**, **Feynman Technique**, and **Spaced Repetition**, but not finding a single tool that combines all of them? As a student, I faced the same frustration. That's why I built **StudyGroup** — an all-in-one app designed to help you master these proven techniques and make your study sessions more effective!
@@ -36,4 +38,10 @@ cd Backend
 ```bash
 node server.js
 ```
+And yes i did use Superflex 
+
+![image](https://github.com/user-attachments/assets/d4dc0958-a4d4-4a7c-abe9-b76ff6e7c6be)
+![image](https://github.com/user-attachments/assets/b61ff914-2164-456c-a47c-61a50ce42a3b)
+![image](https://github.com/user-attachments/assets/e596b94b-5ef8-4405-b3c0-344e5467e208)
+
 

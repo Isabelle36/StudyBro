@@ -36,8 +36,11 @@ npm start
 ```
 cd Backend
 ```bash
-node server.js
+node Server.js
 ```
+when u visit the live web link https://study-group-chi.vercel.app/
+Make sure that your Backend is running as the instructions provided go to Backend then 
+node Server.js then u can use the Feynman Technique card smoothly 
 And yes i did use Superflex 
 
 ![image](https://github.com/user-attachments/assets/d4dc0958-a4d4-4a7c-abe9-b76ff6e7c6be)

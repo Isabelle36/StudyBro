@@ -57,7 +57,7 @@ const ActiveRecall = () => {
             Create Quiz
           </button>
           <button
-            onClick={() => navigate('/quiz-mode')}
+            onClick={() => navigate('/study-mode')}
             className="w-full py-2.5 bg-gradient-to-r from-blue-500 to-indigo-500 
                      rounded-lg text-white font-semibold hover:opacity-90 
                      transition-opacity duration-200"

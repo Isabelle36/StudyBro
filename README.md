@@ -1,9 +1,9 @@
-# StudyGroup
+# StudyBro
 ![image](https://github.com/user-attachments/assets/76c296a9-c18c-4965-bd9c-60e394b5f73d)
 
-## About StudyGroup
+## About StudyBro
 
-Are you tired of hearing about fancy study techniques like **Pomodoro**, **Feynman Technique**, and **Spaced Repetition**, but not finding a single tool that combines all of them? As a student, I faced the same frustration. That's why I built **StudyGroup** — an all-in-one app designed to help you master these proven techniques and make your study sessions more effective!
+Are you tired of hearing about fancy study techniques like **Pomodoro**, **Feynman Technique**, and **Spaced Repetition**, but not finding a single tool that combines all of them? As a student, I faced the same frustration. That's why I built **StudyBro** — an all-in-one app designed to help you master these proven techniques and make your study sessions more effective!
 
 ## Features
 

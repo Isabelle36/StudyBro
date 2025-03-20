@@ -1,5 +1,6 @@
 # StudyBro
-![image](https://github.com/user-attachments/assets/76c296a9-c18c-4965-bd9c-60e394b5f73d)
+![image](https://github.com/user-attachments/assets/7c75e6d0-107f-4916-988d-23c90ff5f991)
+
 
 ## About StudyBro
 

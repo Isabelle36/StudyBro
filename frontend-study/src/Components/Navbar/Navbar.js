@@ -11,7 +11,7 @@ export const Navbar = () => {
               Saved Cards
             </Link>
             <Link to="/" className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-green-400">
-              StudyGroup
+              StudyBro
             </Link>
             <Link to="/study-mode" className="text-white/80 hover:text-white transition-colors">
               Your Quizes

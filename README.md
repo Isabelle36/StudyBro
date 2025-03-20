@@ -4,8 +4,7 @@
 ## About StudyGroup
 
 Are you tired of hearing about fancy study techniques like **Pomodoro**, **Feynman Technique**, and **Spaced Repetition**, but not finding a single tool that combines all of them? As a student, I faced the same frustration. That's why I built **StudyGroup** — an all-in-one app designed to help you master these proven techniques and make your study sessions more effective!
-## Demo Video Link
-https://youtu.be/EA6j1w41ne8?feature=shared
+
 ## Features
 
 - **Pomodoro Technique**: Organize your study sessions into focused intervals with breaks.

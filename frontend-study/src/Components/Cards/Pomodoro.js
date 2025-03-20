@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import kost from "../Sounds/track1.mp3";
 import kost2 from "../Sounds/track2.mp3";
 import kost3 from "../Sounds/track3.mp3";
 import kost4 from "../Sounds/track4.mp3";
@@ -35,11 +34,6 @@ const CircularProgress = ({ progress }) => (
   </div>
 );
 const studyTracks = [
-  {
-    id: 1,
-    name: "Korean Drama Study Group OST",
-    url: kost, // Update with your actual file paths
-  },
   {
     id: 2,
     name: "Lofi Beats",
